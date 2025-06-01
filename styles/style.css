@@ -240,7 +240,7 @@
   align-items: center;
   background-color: black;
   border-radius: 50%;
-  margin: 35px 72px 320px 47px;
+  margin: 35px 72px 0 47px;
 }
 
 .about__logo-image {
@@ -281,10 +281,6 @@
   justify-content: space-between;
   padding: 0 50px 80px;
 }
-
-/* .footer__links-list-item_no-bulit > a {
-  text-decoration: none;
-} */
 
 .footer__link_active {
   text-decoration: none;
